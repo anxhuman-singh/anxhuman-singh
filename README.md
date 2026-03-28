@@ -47,7 +47,7 @@ Systems > Frameworks
 
 - 🌐 https://anxhu.dev  
 - 📧 me@anxhu.dev  
-- 💼 https://linkedin.com/in/anxh  
+- 💼 https://linkedin.com/in/anxhuman-singh
 - 💬 https://t.me/anxhu_dev  
 
 ---
